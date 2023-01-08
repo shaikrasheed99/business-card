@@ -2,6 +2,10 @@ body {
     margin: 20px;
 }
 
+.content {
+    display: flex;
+}
+
 .profile-avatar {
     width: 170px;
 }
